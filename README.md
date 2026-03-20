@@ -1,4 +1,5 @@
 # Madden OC App
+![Screenshot_20260320_083010_Expo Go](https://github.com/user-attachments/assets/e44b3e58-75c0-436c-b130-b09e2348a55f)
 
 Madden OC App is a voice-first assistant that helps Madden players make better offensive play-calling decisions.
 
