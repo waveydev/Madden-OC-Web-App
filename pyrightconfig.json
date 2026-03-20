@@ -1,0 +1,19 @@
+{
+  "include": [
+    "services/api-realtime",
+    "services/control-plane",
+    "services/rules-engine",
+    "services/ingestion",
+    "apps/mobile"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "services/api-realtime",
+      "extraPaths": ["libs/schemas/python"]
+    },
+    {
+      "root": "services/rules-engine",
+      "extraPaths": ["libs/schemas/python"]
+    }
+  ]
+}

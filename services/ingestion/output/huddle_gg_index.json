@@ -1,0 +1,714 @@
+[
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Madden Database",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/",
+    "raw_label": "Madden Database"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Madden Playbook Finder",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/finder/",
+    "raw_label": "Madden Playbook Finder"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "CFB Database",
+    "madden_version": "Unknown",
+    "playbook_url": "https://cfb.fan/playbooks/",
+    "raw_label": "CFB Database"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Playbooks",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/playbooks/",
+    "raw_label": "Playbooks"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Finder",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/finder/",
+    "raw_label": "Finder"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "All Plays",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/all-plays/",
+    "raw_label": "All Plays"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "49ers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/49ers-off/",
+    "raw_label": "49ers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Bears",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/bears-off/",
+    "raw_label": "Bears"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Bengals",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/bengals-off/",
+    "raw_label": "Bengals"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Bills",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/bills-off/",
+    "raw_label": "Bills"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Broncos",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/broncos-off/",
+    "raw_label": "Broncos"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Browns",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/browns-off/",
+    "raw_label": "Browns"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Buccaneers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/buccaneers-off/",
+    "raw_label": "Buccaneers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Cardinals",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/cardinals-off/",
+    "raw_label": "Cardinals"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Chargers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/chargers-off/",
+    "raw_label": "Chargers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Chiefs",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/chiefs-off/",
+    "raw_label": "Chiefs"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Colts",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/colts-off/",
+    "raw_label": "Colts"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Commanders",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/commanders-off/",
+    "raw_label": "Commanders"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Cowboys",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/cowboys-off/",
+    "raw_label": "Cowboys"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Dolphins",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/dolphins-off/",
+    "raw_label": "Dolphins"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Eagles",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/eagles-off/",
+    "raw_label": "Eagles"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Falcons",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/falcons-off/",
+    "raw_label": "Falcons"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Giants",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/giants-off/",
+    "raw_label": "Giants"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Jaguars",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/jaguars-off/",
+    "raw_label": "Jaguars"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Jets",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/jets-off/",
+    "raw_label": "Jets"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Lions",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/lions-off/",
+    "raw_label": "Lions"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Packers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/packers-off/",
+    "raw_label": "Packers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Panthers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/panthers-off/",
+    "raw_label": "Panthers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Patriots",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/patriots-off/",
+    "raw_label": "Patriots"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Raiders",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/raiders-off/",
+    "raw_label": "Raiders"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Rams",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/rams-off/",
+    "raw_label": "Rams"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Ravens",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/ravens-off/",
+    "raw_label": "Ravens"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Saints",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/saints-off/",
+    "raw_label": "Saints"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Seahawks",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/seahawks-off/",
+    "raw_label": "Seahawks"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Steelers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/steelers-off/",
+    "raw_label": "Steelers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Texans",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/texans-off/",
+    "raw_label": "Texans"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Titans",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/titans-off/",
+    "raw_label": "Titans"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Vikings",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/vikings-off/",
+    "raw_label": "Vikings"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "49ers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/49ers-def/",
+    "raw_label": "49ers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Bears",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/bears-def/",
+    "raw_label": "Bears"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Bengals",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/bengals-def/",
+    "raw_label": "Bengals"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Bills",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/bills-def/",
+    "raw_label": "Bills"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Broncos",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/broncos-def/",
+    "raw_label": "Broncos"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Browns",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/browns-def/",
+    "raw_label": "Browns"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Buccaneers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/buccaneers-def/",
+    "raw_label": "Buccaneers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Cardinals",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/cardinals-def/",
+    "raw_label": "Cardinals"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Chargers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/chargers-def/",
+    "raw_label": "Chargers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Chiefs",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/chiefs-def/",
+    "raw_label": "Chiefs"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Colts",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/colts-def/",
+    "raw_label": "Colts"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Commanders",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/commanders-def/",
+    "raw_label": "Commanders"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Cowboys",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/cowboys-def/",
+    "raw_label": "Cowboys"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Dolphins",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/dolphins-def/",
+    "raw_label": "Dolphins"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Eagles",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/eagles-def/",
+    "raw_label": "Eagles"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Falcons",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/falcons-def/",
+    "raw_label": "Falcons"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Giants",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/giants-def/",
+    "raw_label": "Giants"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Jaguars",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/jaguars-def/",
+    "raw_label": "Jaguars"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Jets",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/jets-def/",
+    "raw_label": "Jets"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Lions",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/lions-def/",
+    "raw_label": "Lions"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Packers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/packers-def/",
+    "raw_label": "Packers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Panthers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/panthers-def/",
+    "raw_label": "Panthers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Patriots",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/patriots-def/",
+    "raw_label": "Patriots"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Raiders",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/raiders-def/",
+    "raw_label": "Raiders"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Rams",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/rams-def/",
+    "raw_label": "Rams"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Ravens",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/ravens-def/",
+    "raw_label": "Ravens"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Saints",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/saints-def/",
+    "raw_label": "Saints"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Seahawks",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/seahawks-def/",
+    "raw_label": "Seahawks"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Steelers",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/steelers-def/",
+    "raw_label": "Steelers"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Texans",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/texans-def/",
+    "raw_label": "Texans"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Titans",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/titans-def/",
+    "raw_label": "Titans"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Vikings",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/vikings-def/",
+    "raw_label": "Vikings"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Air Raid",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/air-raid-off/",
+    "raw_label": "Air Raid"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Balanced",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/balanced-off/",
+    "raw_label": "Balanced"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Benkert's Dimes",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/benkerts-dimes-off/",
+    "raw_label": "Benkert's Dimes"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Pistol",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/pistol-off/",
+    "raw_label": "Pistol"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Run and Shoot",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/run-and-shoot-off/",
+    "raw_label": "Run and Shoot"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Run Balanced",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/run-balanced-off/",
+    "raw_label": "Run Balanced"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Run Heavy",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/run-heavy-off/",
+    "raw_label": "Run Heavy"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Run n Gun",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/run-n-gun-off/",
+    "raw_label": "Run n Gun"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Shotgun",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/shotgun-off/",
+    "raw_label": "Shotgun"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Shotgun Mix",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/shotgun-mix-off/",
+    "raw_label": "Shotgun Mix"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Singleback",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/singleback-off/",
+    "raw_label": "Singleback"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Spread",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/spread-off/",
+    "raw_label": "Spread"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Two Back",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/two-back-off/",
+    "raw_label": "Two Back"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "West Coast",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/west-coast-off/",
+    "raw_label": "West Coast"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "3",
+    "madden_version": "4",
+    "playbook_url": "https://huddle.gg/26/playbooks/3-4-def/",
+    "raw_label": "3-4"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "4",
+    "madden_version": "3",
+    "playbook_url": "https://huddle.gg/26/playbooks/4-3-def/",
+    "raw_label": "4-3"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "46",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/46-def/",
+    "raw_label": "46"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Cover 2",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/cover-2-def/",
+    "raw_label": "Cover 2"
+  },
+  {
+    "source_name": "huddle_gg",
+    "captured_at": "2026-03-20T03:06:43.362427+00:00",
+    "team": "Multiple D",
+    "madden_version": "Unknown",
+    "playbook_url": "https://huddle.gg/26/playbooks/multiple-d-def/",
+    "raw_label": "Multiple D"
+  }
+]
